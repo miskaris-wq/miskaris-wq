@@ -19,19 +19,27 @@ Expected graduation: 2026 (incomplete higher education)
 
 ---
 
-## Skills
+### Technical Skills
 
-### Fundamental
-- OOP, data structures and algorithms  
-- SQL (PostgreSQL, MySQL)  
-- Linux, HTTP, basic networking
+#### Fundamental
+- **Programming Paradigms & Concepts:** OOP, data structures and algorithms
+- **Databases & SQL:** SQL (PostgreSQL, MySQL), JDBC
+- **Systems & Networking:** Linux, HTTP, basic networking
 
-### Applied
-- **Java (confident)**, Python (basic)
-- Spring Boot, Spring Security, Hibernate  
-- Gradle, Git, GitHub  
-- Integration testing  
-- IntelliJ IDEA, HTML/CSS (basic)
+#### Applied & Technologies
+- **Languages:** **Java (confident, 11+)**, Python (basic)
+- **Java Frameworks & Ecosystem:**
+  - **Spring:** Spring Boot 3.x, Spring Security, Spring Data JPA, Spring MVC
+  - **Other:** Javalin (lightweight web framework), Hibernate (ORM)
+- **Database Technologies:** PostgreSQL (production), MySQL, H2 Database (development/testing)
+- **Message Brokers & Streaming:** Apache Kafka
+- **Build, Version Control & CI/CD Tools:** Gradle, Maven, Git, GitHub
+- **Testing:** Integration testing, JUnit 5, Spring Boot Test
+- **Web & Templating:** Thymeleaf, JTE, HTML/CSS (basic), Jsoup (HTML parsing)
+- **APIs & HTTP Clients:** REST API, Unirest (HTTP client)
+- **Development Tools:** IntelliJ IDEA
+- **Operational Tools:** SLF4J (logging), Rollbar (error monitoring)
+- **Containerization & Deployment:** Docker
 
 ---
 
