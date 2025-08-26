@@ -29,7 +29,7 @@ Expected graduation: 2026 (incomplete higher education)
 ### Applied
 - **Java (confident)**, Python (basic)
 - Spring Boot, Spring Security, Hibernate  
-- Gradle, Maven, Git, GitHub  
+- Gradle, Git, GitHub  
 - Integration testing  
 - IntelliJ IDEA, HTML/CSS (basic)
 
@@ -37,7 +37,7 @@ Expected graduation: 2026 (incomplete higher education)
 
 ## Languages
 - 🇷🇺 Russian — Native  
-- 🇬🇧 English — B1 (Intermediate)
+- 🇬🇧 English — B2 (Upper-Intermediate)
 
 ---
 
