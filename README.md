@@ -34,11 +34,11 @@ Expected graduation: 2026 (incomplete higher education)
 - **Database Technologies:** PostgreSQL (production), MySQL, H2 Database (development/testing)
 - **Message Brokers & Streaming:** Apache Kafka
 - **Build, Version Control & CI/CD Tools:** Gradle, Maven, Git, GitHub
-- **Testing:** Integration testing, JUnit 5, Spring Boot Test
+- **Testing:** Integration testing, JUnit 5, Spring Boot Test, MockMvc, SonarQube/SonarCloud
 - **Web & Templating:** Thymeleaf, JTE, HTML/CSS (basic), Jsoup (HTML parsing)
 - **APIs & HTTP Clients:** REST API, Unirest (HTTP client)
 - **Development Tools:** IntelliJ IDEA
-- **Operational Tools:** SLF4J (logging), Rollbar (error monitoring)
+- **Operational Tools:** SLF4J (logging)
 - **Containerization & Deployment:** Docker
 
 ---
