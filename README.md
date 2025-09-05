@@ -43,11 +43,5 @@ Expected graduation: 2026 (incomplete higher education)
 
 ---
 
-## Languages
-- 🇷🇺 Russian — Native  
-- 🇬🇧 English — B2 (Upper-Intermediate)
-
----
-
 ## About Me
 Aspiring Java developer focused on backend development, industrial automation, and building reliable systems. Actively learning, participating in olympiads and educational projects. Open to internships and collaborative work.
