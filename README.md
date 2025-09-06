@@ -1,4 +1,4 @@
-# Ksenya Mikhailovna Rasskazova
+# Ksenya Rasskazova
 
 **Java Developer**  
 📍 Moscow | 🇷🇺 Russia | 📞 +7 (999) 9892512 | ✉️ applex631@gmail.com  
